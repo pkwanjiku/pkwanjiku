@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pkwanjiku
-- 👀 I’m interested in opensource contribution
+- 👀 I’m interested in opensource projects (software or otherwise)
 - 🌱 I’m currently learning the openmrs.org achitecture
-- 💞️ I’m looking to collaborate on opensource projects in health IT
+- 💞️ I’m looking to collaborate on any opensource project in health IT
 - 📫 How to reach me ... peterkaniu254@gmail.com
 
 <!---
